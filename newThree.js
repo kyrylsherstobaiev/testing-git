@@ -1,1 +1,1 @@
-function newThree(){}
+export function newThree(){}
